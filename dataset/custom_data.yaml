@@ -1,0 +1,7 @@
+names:
+- car
+- per
+nc: 2
+test: /home/rokey/rokey_ping_ws/to_students/dataset/test/images
+train: /home/rokey/rokey_ping_ws/to_students/dataset/train/images
+val: /home/rokey/rokey_ping_ws/to_students/dataset/valid/images
